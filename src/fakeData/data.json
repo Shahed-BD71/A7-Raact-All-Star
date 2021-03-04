@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "name": "Jason Roy",
+    "position": "Opening batsman",
+    "country": "England",
+    "salary": 4000,
+    "image": "https://wallpapercave.com/wp/wp5485614.jpg"
+  }, {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "position": "Opening batsman",
+    "country": "India",
+    "salary": 1250,
+    "image": "https://wallpapercave.com/wp/wp3988786.jpg"
+  }, {
+    "id": 3,
+    "name": "Kane Williamson",
+    "position": "Top-order batsman / captain",
+    "country": "New Zealand",
+    "salary": 13800,
+    "image": "https://wallpapercave.com/wp/wp3051818.jpg"
+  }, {
+    "id": 4,
+    "name": "Joseph Root",
+    "position": "Top-order batsman",
+    "country": "England",
+    "salary": 79010,
+    "image": "https://wallpapercave.com/wp/wp4505078.jpg"
+  }, {
+    "id": 5,
+    "name": "Shakib Al Hasan",
+    "position": "All-rounder (slow left-arm bowler)",
+    "country": "Bangladesh",
+    "salary": 42990,
+    "image": "https://wallpapercave.com/wp/wp4907605.jpg"
+  }, {
+    "id": 6,
+    "name": "Ben Stokes",
+    "position": "All-rounder (right-arm fast-medium bowler)",
+    "country": "England",
+    "salary": 2779,
+    "image": "https://wallpapercave.com/wp/wp4467277.jpg"
+  }, {
+    "id": 7,
+    "name": "Alex Carey",
+    "position": "Wicket-keeper",
+    "country": "Australia",
+    "salary": 2400,
+    "image": "https://cdn.wisden.com/wp-content/uploads/2019/06/GettyImages-1153107718-1-e1559904553928-980x530.jpg"
+  }, {
+    "id": 8,
+    "name": "Mitchell Starc",
+    "position": "Bowler (left-arm fast)",
+    "country": "Australia",
+    "salary": 24417,
+    "image": "https://wallpapercave.com/wp/wp4545199.jpg"
+  }, {
+    "id": 9,
+    "name": "Jofra Archer",
+    "position": "Bowler (right-arm fast)",
+    "country": "England",
+    "salary": 72000,
+    "image": "https://wallpapercave.com/wp/wp4479459.jpg"
+  }, {
+    "id": 10,
+    "name": "Lockie Ferguson",
+    "position": "Bowler (right-arm fast)",
+    "country": "New Zealand",
+    "salary": 16000,
+    "image": "https://wallpapercave.com/wp/wp7662744.jpg"
+  }, {
+    "id": 11,
+    "name": "Jasprit Bumrah",
+    "position": " Bowler (right-arm fast)",
+    "country": "India",
+    "salary": 70000,
+    "image": "https://wallpapercave.com/wp/wp4417209.jpg"
+  }, {
+    "id": 12,
+    "name": "Trent Boult",
+    "position": "Bowler (left-arm fast-medium) / 12th man",
+    "country": "New Zealand",
+    "salary": 20000,
+    "image": "https://wallpapercave.com/wp/wp6512936.jpg"
+  }]
